@@ -1,5 +1,5 @@
 # TicTacToe
-Generador de TicTacToes formando posiciones una vez teniendo la matriz dada.
+Generador de TicTacToes formando posiciones una vez teniendo la matriz dada en base al desafío de la competencia [Aguarandu](https://aguarandu.org/).
 
 ## Developed with:
 > - Python
